@@ -1,6 +1,6 @@
-Flask
-torch
-open_clip_torch
-sentence-transformers
-Pillow
-opencv-python
+Flask==2.0.2
+torch==1.13.0  # veya istediğiniz versiyon
+open_clip_torch==2.0.0  # uygun sürümü kontrol edin
+sentence-transformers==2.2.0  # uygun sürümü kontrol edin
+Pillow==9.2.0  # veya istediğiniz versiyon
+opencv-python-headless==4.6.0.66  # GUI olmadan kullanılacak sürüm
