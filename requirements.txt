@@ -1,0 +1,6 @@
+Flask
+torch
+open_clip
+sentence-transformers
+Pillow
+opencv-python
