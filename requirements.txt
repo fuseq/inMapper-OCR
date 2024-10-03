@@ -1,6 +1,6 @@
 Flask
 torch
-open_clip
+open_clip_torch
 sentence-transformers
 Pillow
 opencv-python
